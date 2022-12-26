@@ -42,7 +42,7 @@ public class LaptopFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_laptop, container, false);
         getListDatabase();
         setupRecyclerView(view);
-        String abc = "aaaaaaaaaaaaaaaaaaa";
+
 
         return view;
     }
